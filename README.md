@@ -1,16 +1,66 @@
-## Hi there 👋
+## 🛠 Tech Stack
 
-<!--
-**f247ahmed-glitch/f247ahmed-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Here are some ideas to get you started:
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+<h1 align="center">Hi 👋, I'm Faiz Khan</h1>
+<h3 align="center">Full Stack Web Developer | CSE Student | Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Backend Development**
+- 💻 Building Full Stack Projects
+- 🎯 Goal: Get a Software Developer Job
+- 📫 Reach me: your-email@example.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=f247ahmed-glitch&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f247ahmed-glitch&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=f247ahmed-glitch&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[GitHub](https://github.com/f247ahmed-glitch)
+
+⭐ Thanks for visiting my profile!
