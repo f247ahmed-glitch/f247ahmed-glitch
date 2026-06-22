@@ -25,7 +25,7 @@
 - 🌱 Currently learning **Backend Development**
 - 💻 Building Full Stack Projects
 - 🎯 Goal: Get a Software Developer Job
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me:f247ahmed@gmail.com
 
 ---
 
